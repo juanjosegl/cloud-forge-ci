@@ -1,3 +1,4 @@
+import os
 """Calculadora minima para el laboratorio de CI seguro."""
 
 
